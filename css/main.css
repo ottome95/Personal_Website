@@ -1,0 +1,15 @@
+/*///////////////////RESET//////////////////*/
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css';
+@import 'typography.css';
+@import 'grid.css';
+@import 'box-styles.css';
+@import 'layout.css';
+@import 'devices.css';
+
+body {
+  background-color: #2C242E;
+}
+
+
+/*////////// RESPONSIVE //////////*/

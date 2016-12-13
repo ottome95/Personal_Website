@@ -1,0 +1,37 @@
+
+#sticky {
+  position: fixed;
+  width: 100%;
+  background-color: #251D27;
+  padding-bottom: 15px;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+/*images*/
+
+img[src$="png"] {
+  width: 60%;
+}
+
+input, form, text-area {
+  display: block;
+  width: 50%;
+}
+
+img[src$="jpg"] {
+  height: 175px;
+  width: 300px;
+}
+
+.text-image first-child {
+  margin-left: 500px;
+}
+
+/*pangaea text*/
+
+/*section.text-image p {
+    height: 215px;
+    width: 300px;
+  }*/

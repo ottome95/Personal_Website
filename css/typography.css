@@ -1,0 +1,117 @@
+* {
+  font-family: 'Exo 2', sans-serif;
+}
+
+img[src^="living"] {
+  display: block;
+}
+
+h3 {
+  /*display: inline;*/
+  color: #9CD0A3;
+  margin: 0;
+  padding-top: 10px;
+  float: left;
+
+}
+
+nav a {
+  margin-top: 13px;
+  float: right;
+  margin-right: 10px;
+}
+
+nav.logo {
+  float: left;
+}
+
+.description {
+  background: #2C242E;
+  padding: 60px 0;
+}
+
+.intro {
+    padding: 120px 0 110px;
+    background: url(../images/burian-complete.1.png) no-repeat;
+    background-size: cover;
+}
+
+.info {
+  font-size: 1.5em;
+  font-weight: lighter;
+  color: #FFF6FF;
+  margin: 127px 0;
+}
+
+p {
+  color: white;
+  /*margin: 90px 89px 0 0;*/
+}
+
+p.fossil-facts {
+  color: white;
+  margin: 15px 20px 60px 0;
+}
+
+
+main.container h1 {
+    color: white;
+    text-shadow: 2px 3px 2px #111111;
+    /*margin-top: -300px;*/
+    z-index: 2;
+}
+
+h1 {
+  color: #FFF6FF;
+  text-shadow: 2px 3px 2px #111111;
+  margin: -52px 0;
+  padding-top: 40px;
+}
+
+h1.contact-us {
+  padding-top: 0;
+  margin-top: -52px:
+}
+
+main p.info {
+  /*margin: 3.67em 0;*/
+  text-shadow: 2px 3px 2px #111111;
+}
+
+main {
+  margin-top: 25px;
+}
+
+main.container {
+  margin-top: 100px;
+}
+
+ul li {
+  color: white;
+  list-style-type: none;
+}
+
+a:visited {
+  color: #9CD0A3;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+
+footer h5 {
+  color: #9CD0A3;
+}
+
+#bolder {
+  font-size: 0.8em;
+  /*margin-top: 90px;*/
+}
+
+/*footer*/
+
+footer ul {
+  padding: 30px 0 40px 0;
+}
