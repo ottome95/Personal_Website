@@ -26,7 +26,7 @@ nav.logo {
 }
 
 .description {
-  background: #2C242E;
+  background: ##3D3140;
   padding: 60px 0;
 }
 
@@ -64,8 +64,8 @@ main.container h1 {
 h1 {
   color: #FFF6FF;
   text-shadow: 2px 3px 2px #111111;
-  margin: -52px 0;
-  padding-top: 40px;
+  margin: 0 0;
+  padding-top: 20px;
 }
 
 h1.contact-us {
